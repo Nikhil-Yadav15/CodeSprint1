@@ -1,0 +1,3 @@
+Pyannote
+Whisper
+Wav2Vec2
